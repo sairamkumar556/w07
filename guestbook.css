@@ -1,0 +1,12 @@
+body{
+	background:#98FB98;
+    color: #000000;
+    font-family: "Josefin Slab";
+}
+a{
+	color: black;
+	font-weight: 700;
+}
+a:hover{
+	color: green;
+}
